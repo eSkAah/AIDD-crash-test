@@ -18,5 +18,6 @@
     {
       "file": ".copilot-tailwind.md"
     }
-  ]
+  ],
+  "nxConsole.generateAiAgentRules": true
 }
