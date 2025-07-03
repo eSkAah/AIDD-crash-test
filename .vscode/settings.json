@@ -1,0 +1,22 @@
+{
+  "github.copilot.chat.testGeneration.instructions": [
+    {
+      "file": ".copilot-architecture.md"
+    },
+    {
+      "file": ".copilot-clean-architecture.md"
+    },
+    {
+      "file": ".copilot-nestjs.md"
+    },
+    {
+      "file": ".copilot-react.md"
+    },
+    {
+      "file": ".copilot-standards.md"
+    },
+    {
+      "file": ".copilot-tailwind.md"
+    }
+  ]
+}
