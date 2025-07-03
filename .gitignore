@@ -1,4 +1,6 @@
-
+node_modules/
+apps/*/node_modules/
+libs/*/node_modules/
 .nx/installation
 .nx/cache
 .nx/workspace-data
