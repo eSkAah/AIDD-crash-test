@@ -4,6 +4,20 @@ libs/*/node_modules/
 .nx/installation
 .nx/cache
 .nx/workspace-data
+dist/
+build/
+coverage/
+tmp/
+.vscode/
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.development
+.env.test
+.env.production
 
 
 .cursor/rules/nx-rules.mdc
