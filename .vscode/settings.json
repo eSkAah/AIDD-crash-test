@@ -17,6 +17,9 @@
     },
     {
       "file": ".copilot-tailwind.md"
+    },
+    {
+      "file": ".copilot-project-definition.md"
     }
   ],
   "nxConsole.generateAiAgentRules": true
